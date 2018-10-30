@@ -4,8 +4,8 @@
     <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
   </a>
 </p>
-<h2 align="center"> My CS Progress Tracker </h2>
-
+ 
+![alt Profile Photo](https://avatars1.githubusercontent.com/u/35871897?s=460&v=4 "Profile Photo")
 Hey, I am Sergei. I have master degrees in Physics and Economics, and continue professional development in Computer Science with particular interest in Machine Learning. Here is a complete log of my progress in Computer Science guided by the [OSSU Computer Science curriculum](https://github.com/ossu/computer-science). It also includes my extra curriculum activities in Computer Science and Data Science. My coursework code is placed in separate repositories, where applicable. 
 
 The OSSU describes its Curriculum as:
@@ -14,7 +14,7 @@ The OSSU describes its Curriculum as:
 > It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements, as it is assumed most of the people following this curriculum are already educated outside the field of CS.
 > The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc.
 
-The curriculum is designed as follows:
+The curriculum is designed as follows (I don't follow the exact sequence of courses):
 
 <h2 align="center"> INTRO to CS </h2>
 <h3 align="center"> For students to try out CS and see if it's right for them </h3>
@@ -33,7 +33,6 @@ The curriculum is designed as follows:
 ID# | Course | Completed | Proof 
 :--: | :-- | :---: | :--: 
 001 | [CS50's Introduction to Computer Science by Harvard on edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | Oct 2018 | [Certificate](https://courses.edx.org/certificates/6b5ea2dce5844d278577139b014e9ade)
-001-FP | [CS50's Final Project: An interactive web app 'Digit Recognizer' based on two machine learning models trained with the MNIST dataset](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | Oct 2018 | [Repository](https://github.com/szaitseff/CS50_Harvard) + [YouTube presentation](https://www.youtube.com/watch?v=ein2VnyxFTQ&t=12s)
 002 | [6.00.1x Introduction to Computer Science and Programming using Python by MIT on edX](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | Mar 2018 | [Certificate](https://courses.edx.org/certificates/8f58707970a647b0954428a61f019572)
 extra | [How to think like a computer scientist: Learning with Python 3 (a comprehensive online book with exercises)](http://openbookproject.net/thinkcs/python/english3e/) | Mar 2018| [Repository](https://github.com/szaitseff/How_to_think_like_CS)
 extra | [SQL Fundamentals by Sololearn](https://www.sololearn.com/Play/SQL) | May 2018 | [Certificate](https://www.sololearn.com/Certificate/1060-7307490/pdf/)
@@ -194,4 +193,5 @@ DL5 | > [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/hom
 
 Project | Completed | Link 
 :-- | :--: | :--:
-Nand2Tetris Assembler | Mar 2018 | [Repository]()
+[Nand2Tetris]() Final Project: Assembler for the Hack Computer | Mar 2018 | [Repository]()
+[CS50's]() Final Project: An interactive web app 'Digit Recognizer' based on two machine learning models trained with the MNIST dataset | Oct 2018 | [Repository](https://github.com/szaitseff/CS50_Harvard) + [YouTube presentation](https://www.youtube.com/watch?v=ein2VnyxFTQ&t=12s)
