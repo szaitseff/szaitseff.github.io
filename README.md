@@ -1,4 +1,4 @@
-<h1 align="center"> My Computer Science Progress Tracker </h1>
+<h1 align="center"> My CS Progress Tracker </h1>
 <p align="center">
   <a href="https://github.com/ossu/computer-science">
     <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
