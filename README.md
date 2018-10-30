@@ -1,7 +1,3 @@
----
-
----
-
 <h1 align="center"> Open Source Society University </h1>
 <p align="center">
   <a href="https://github.com/ossu/computer-science">
