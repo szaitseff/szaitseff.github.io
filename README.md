@@ -1,10 +1,13 @@
+---
+title: CS Progress Tracker
+layout: default
+---
 <h1 align="center"> Open Source Society University </h1>
 <p align="center">
   <a href="https://github.com/ossu/computer-science">
     <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
   </a>
 </p>
-<h1 align="center"> My Progress Tracker </h1>
 
 Hey, I am Sergei. I have master degrees in Physics and Economics, and continue professional development in Computer Science with particular interest in Machine Learning. Here is a complete log of my progress in Computer Science guided by the [OSSU Computer Science curriculum](https://github.com/ossu/computer-science). It also includes my extra curriculum activities in Computer Science and Data Science. My coursework code is placed in separate repositories, where applicable. 
 
