@@ -4,6 +4,7 @@
     <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
   </a>
 </p>
+<h2 align="center"> My CS Progress Tracker </h2>
 
 Hey, I am Sergei. I have master degrees in Physics and Economics, and continue professional development in Computer Science with particular interest in Machine Learning. Here is a complete log of my progress in Computer Science guided by the [OSSU Computer Science curriculum](https://github.com/ossu/computer-science). It also includes my extra curriculum activities in Computer Science and Data Science. My coursework code is placed in separate repositories, where applicable. 
 
@@ -12,14 +13,11 @@ The OSSU describes its Curriculum as:
 > It's for those who want a proper, *well-rounded* grounding in concepts fundamental to all computing disciplines.
 > It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements, as it is assumed most of the people following this curriculum are already educated outside the field of CS.
 > The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc.
->
-> **Organization**. The curriculum is designed as follows:
-> - *Intro CS*: for students to try out CS and see if it's right for them
-> - *Core CS*: corresponds roughly to the first three years of a computer science curriculum, taking classes that all majors would be required to take.
-> - *Advanced CS*: corresponds roughly to the final year of a computer science curriculum, taking electives according to the student's interests.
-> - *Final Project*: a project for students to validate, consolidate, and display their knowledge, to be evaluated by their peers worldwide.
+
+The curriculum is designed as follows:
 
 <h2 align="center"> INTRO to CS </h2>
+<h3 align="center"> For students to try out CS and see if it's right for them </h3>
 
 **Topics covered**:
 `imperative programming`
@@ -45,6 +43,7 @@ extra | [JavaScript Tutorial by Sololearn](https://www.sololearn.com/Play/JavaSc
 extra | [Python 3 Tutorial by Sololearn](https://www.sololearn.com/Play/Python) | In Progress | [-]()
 
 <h2 align="center"> CORE CS </h2>
+<h3 align="center"> Corresponds roughly to the first three years of a computer science curriculum, taking classes that all majors would be required to take </h3>
 
 <h3 align="center"> Core Programming </h3>
 
@@ -175,8 +174,9 @@ DB3 | > [JSON Data](https://lagunita.stanford.edu/courses/DB/JSON/SelfPaced/info
 029 | [Software Development Capstone Project by UBC on edX](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | - | [-]()
 
 <h2 align="center"> ADVANCED CS </h2>
+<h3 align="center"> Corresponds roughly to the final year of a computer science curriculum, taking electives according to the student's interests </h3>
 
-After completing **every required course** in Core CS, students should choose a subset of courses from Advanced CS based on interest. My particular interest was in Machine Learning, therefore I undertook the Deep Learning Specialization by prof. Andrew Ng right after the completion of his Machine Learning course on Coursera.
+__Note:__ My particular interest was in Machine Learning, therefore I undertook the Deep Learning Specialization by prof. Andrew Ng right after the completion of his Machine Learning course on Coursera.
 
 <h3 align="center"> Advanced applications </h3>
 
@@ -190,6 +190,7 @@ DL4 | > [Convolutional Neural Networks](https://www.coursera.org/learn/convoluti
 DL5 | > [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome) | Aug 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/P5F52CRDW3WU) 
 
 <h2 align="center"> PROJECTS </h2>
+<h3 align="center">  Include both curriculum and extra-curriculum projects to validate, consolidate, and display my knowledge </h3>
 
 Project | Completed | Link 
 :-- | :--: | :--:
