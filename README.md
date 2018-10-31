@@ -1,20 +1,13 @@
-<h1 align="center"> My CS Progress Tracker </h1>
-<p align="center">
-  <a href="https://github.com/ossu/computer-science">
-    <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
-  </a>
-</p>
- 
 ![alt Profile Photo](https://avatars1.githubusercontent.com/u/35871897?s=460&v=4 "Profile Photo")
-Hey, I am Sergei. I have master degrees in Physics and Economics, and continue professional development in Computer Science with particular interest in Machine Learning. Here is a complete log of my progress in Computer Science guided by the [OSSU Computer Science curriculum](https://github.com/ossu/computer-science). It also includes my extra curriculum activities in Computer Science and Data Science. My coursework code is placed in separate repositories, where applicable. 
+Hey, I am Sergei. I have master degrees in Physics and Economics, and continue professional development in Computer Science with particular interest in Machine Learning. Here is a complete log of my progress in Computer Science guided by the <a href="https://github.com/ossu/computer-science"> <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"> </a> curriculum. It also includes my extra curriculum activities in Computer Science and Data Science. My coursework code is placed in separate repositories, where applicable. 
 
-The OSSU describes its Curriculum as:
+The <a href="https://github.com/ossu/computer-science"> <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"> </a> describes its Curriculum as:
 > ... a **complete education in computer science** using online materials.
 > It's for those who want a proper, *well-rounded* grounding in concepts fundamental to all computing disciplines.
 > It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements, as it is assumed most of the people following this curriculum are already educated outside the field of CS.
 > The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc.
 
-The curriculum is designed as follows (I don't follow the exact sequence of courses):
+The <a href="https://github.com/ossu/computer-science"> <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"> </a> curriculum is designed as follows (I don't follow the exact sequence of courses and opt-put of e.g. Math courses):
 
 <h2 align="center"> INTRO to CS </h2>
 <h3 align="center"> For students to try out CS and see if it's right for them </h3>
@@ -196,5 +189,5 @@ ID# | Project | Completed | Proof
 016 | [Nand2Tetris](https://www.coursera.org/learn/build-a-computer) Final Project: Assembler in Python for the Hack Computer | Mar 2018 | [Repository](https://github.com/szaitseff/Nand2Tetris)
 extra | Titanic: Quick model first, then data manipulation - binary classification | Jul 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/titanic-quick-model-first-then-data-manipulation/versions)
 extra | Under the Hood: A Dense Neural Network w/Titanic dataset - binary classification | Aug 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/under-the-hood-a-dense-net-on-titanic-dataset)
-extra | Under the Hood: A Dense Neural Network w/MNIST dataset - image recognition | Sep 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/under-the-hood-a-dense-net-w-mnist-dataset)
+extra | Under the Hood: A Dense Neural Network w/MNIST dataset - digit recognition | Sep 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/under-the-hood-a-dense-net-w-mnist-dataset)
 001 | [CS50's](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) Final Project: An interactive web app 'Digit Recognizer' with machine learning models | Sep 2018 | [Repository](https://github.com/szaitseff/CS50_Harvard) + [YouTube](https://www.youtube.com/watch?v=ein2VnyxFTQ&t=12s)
