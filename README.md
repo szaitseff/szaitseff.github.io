@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars1.githubusercontent.com/u/35871897?s=460&v=4" width="40%" hight="40%" alt=""/>
+<img src="https://avatars1.githubusercontent.com/u/35871897?s=460&v=4" width="50%" hight="50%" alt=""/>
 </p>
 
 Hey, I am Sergei. I have master degrees in Physics and Economics, and continue professional development in Computer Science with particular interest in Machine Learning. Here is a complete log of my progress in Computer Science guided by the <a href="https://github.com/ossu/computer-science"> <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"> </a> curriculum. It also includes my extra curriculum activities in Computer Science and Data Science. My coursework code is placed in separate repositories, where applicable. 
