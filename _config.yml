@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: Sergei Zaitseff
 description: Open Source Society University - My CS Progress Tracker
+show_downloads: true
 google_analytics: UA-128491395-1
 plugins:
   - jekyll-sitemap
