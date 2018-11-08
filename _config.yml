@@ -3,5 +3,11 @@ title: Sergei Zaitseff
 description: Open Source Society University - My CS Progress Tracker
 show_downloads: false
 google_analytics: UA-128491395-1
+
+social-network-links:
+  github_username: szaitseff
+  linkedin: szaitseff
+  twitter_username: szaitseff
+
 plugins:
   - jekyll-sitemap
