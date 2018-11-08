@@ -14,10 +14,10 @@ The <a href="https://github.com/ossu/computer-science"> <img alt="Open Source So
 
 <h3> Quick reference: </h3>
 <p>
-  <a href="#intro-to-cs"> Intro to CS </a> <span> | </span>
-  <a href="#core-cs"> Core CS </a> <span> | </span>
-  <a href="#advanced-cs"> Advanced CS </a> <span> | </span>
-  <a href="#projects"> Projects </a>
+  <a href="#intro-to-cs"> INTRO to CS </a> <span> | </span>
+  <a href="#core-cs"> CORE CS </a> <span> | </span>
+  <a href="#advanced-cs"> ADVANCED CS </a> <span> | </span>
+  <a href="#projects"> PROJECTS </a>
 </p>
 
 <h2 align="center" id="intro-to-cs"> INTRO to CS </h2>
