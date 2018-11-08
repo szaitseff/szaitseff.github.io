@@ -35,7 +35,7 @@ extra | [SQL Fundamentals by Sololearn](https://www.sololearn.com/Play/SQL) | Ma
 extra | [HTML Fundamentals by Sololearn](https://www.sololearn.com/Play/HTML) | Sep 2018 | [Certificate](https://www.sololearn.com/Certificate/1014-7307490/pdf/)
 extra | [CSS Fundamentals by Sololearn](https://www.sololearn.com/Play/CSS) | In Progress | [-]()
 extra | [JavaScript Tutorial by Sololearn](https://www.sololearn.com/Play/JavaScript) | Sep 2018 | [Certificate](https://www.sololearn.com/Certificate/1024-7307490/pdf/)
-extra | [Python 3 Tutorial by Sololearn](https://www.sololearn.com/Play/Python) | In Progress | [-]()
+extra | [Python 3 Tutorial by Sololearn](https://www.sololearn.com/Play/Python) | Nov 2018 | [Certificate](https://www.sololearn.com/Certificate/1073-7307490/pdf/)
 
 <h2 align="center"> CORE CS </h2>
 <h3 align="center"> Corresponds roughly to the first three years of a computer science curriculum, taking classes that all majors would be required to take </h3>
@@ -193,4 +193,4 @@ ID# | Project | Completed | Proof
 extra | Titanic: Quick model first, then data manipulation - binary classification | Jul 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/titanic-quick-model-first-then-data-manipulation/versions)
 extra | Under the Hood: A Dense Neural Network w/Titanic dataset - binary classification | Aug 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/under-the-hood-a-dense-net-on-titanic-dataset)
 extra | Under the Hood: A Dense Neural Network w/MNIST dataset - digit recognition | Sep 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/under-the-hood-a-dense-net-w-mnist-dataset)
-001 | [CS50's](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) Final Project: An interactive web app 'Digit Recognizer' with machine learning models | Sep 2018 | [Repository](https://github.com/szaitseff/CS50_Harvard) + [YouTube](https://www.youtube.com/watch?v=ein2VnyxFTQ&t=12s)
+001 | [CS50's](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) Final Project: An interactive web app 'Digit Recognizer' with machine learning | Sep 2018 | [Repository](https://github.com/szaitseff/CS50_Harvard) + [YouTube](https://www.youtube.com/watch?v=ein2VnyxFTQ&t=12s)
