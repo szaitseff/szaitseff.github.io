@@ -12,11 +12,13 @@ The <a href="https://github.com/ossu/computer-science"> <img alt="Open Source So
 
 The <a href="https://github.com/ossu/computer-science"> <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"> </a> curriculum is designed as follows (I don't follow the exact sequence of courses and opt-put of e.g. Math courses):
 
-### Contents:
-<a href="#intro-to-cs"> Intro to CS </a> <br/>
-<a href="#core-cs"> Core CS </a> <br/>
-<a href="#advanced-cs"> Advanced CS </a> <br/>
+<h3> Contents: </h3>
+<p text-indent="50px">
+<a href="#intro-to-cs"> Intro to CS </a> 
+<a href="#core-cs"> Core CS </a> 
+<a href="#advanced-cs"> Advanced CS </a> 
 <a href="#projects"> Projects </a>
+</p>
 
 <h2 align="center" id="intro-to-cs"> INTRO to CS </h2>
 <h3 align="center"> For students to try out CS and see if it's right for them </h3>
