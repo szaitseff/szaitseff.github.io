@@ -12,7 +12,13 @@ The <a href="https://github.com/ossu/computer-science"> <img alt="Open Source So
 
 The <a href="https://github.com/ossu/computer-science"> <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"> </a> curriculum is designed as follows (I don't follow the exact sequence of courses and opt-put of e.g. Math courses):
 
-<h2 align="center"> INTRO to CS </h2>
+### Contents:
+<a href="#intro-to-cs"> Intro to CS </a> <br/>
+<a href="#core-cs"> Core CS </a> <br/>
+<a href="#advanced-cs"> Advanced CS </a> <br/>
+<a href="#projects"> Projects </a>
+
+<h2 align="center" id="intro-to-cs"> INTRO to CS </h2>
 <h3 align="center"> For students to try out CS and see if it's right for them </h3>
 
 **Topics covered**:
@@ -37,7 +43,7 @@ extra | [CSS Fundamentals by Sololearn](https://www.sololearn.com/Play/CSS) | In
 extra | [JavaScript Tutorial by Sololearn](https://www.sololearn.com/Play/JavaScript) | Sep 2018 | [Certificate](https://www.sololearn.com/Certificate/1024-7307490/pdf/)
 extra | [Python 3 Tutorial by Sololearn](https://www.sololearn.com/Play/Python) | Nov 2018 | [Certificate](https://www.sololearn.com/Certificate/1073-7307490/pdf/)
 
-<h2 align="center"> CORE CS </h2>
+<h2 align="center" id="core-cs"> CORE CS </h2>
 <h3 align="center"> Corresponds roughly to the first three years of a computer science curriculum, taking classes that all majors would be required to take </h3>
 
 <h3 align="center"> Core Programming </h3>
@@ -157,7 +163,7 @@ ID# | Course | Completed | Proof
 
 ID# | Course | Completed | Proof 
 :--: | :-- | :--: | :--:
-024 | [Databases by Stanford on Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | In Progress | [-]()
+024 | [Databases by Stanford on Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | In Progress | SoA for individual minicourses
 DB4 | > [Relational Algebra](https://lagunita.stanford.edu/courses/DB/RA/SelfPaced/info) | May 2018 | [Statement of Accomplishment](https://prod-cert-bucket.s3.amazonaws.com/downloads/eb199d6798804513aa2efc34744e043b/Statement.pdf)
 DB5 | > [SQL](https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/info) | May 2018 | [Statement of Accomplishment](https://prod-cert-bucket.s3.amazonaws.com/downloads/d62d1e87fd484bfe90ef2e5d7b61fdca/Statement.pdf)
 DB2 | > [XML Data](https://lagunita.stanford.edu/courses/DB/XML/SelfPaced/info) | Jun 2018 | [Statement of Accomplishment](https://prod-cert-bucket.s3.amazonaws.com/downloads/50de9c09333e42248fa667b69a5df31f/Statement.pdf)
@@ -168,7 +174,7 @@ DB3 | > [JSON Data](https://lagunita.stanford.edu/courses/DB/JSON/SelfPaced/info
 028 | [Software Engineering: Introduction by UBC on edX](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | - | [-]()
 029 | [Software Development Capstone Project by UBC on edX](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | - | [-]()
 
-<h2 align="center"> ADVANCED CS </h2>
+<h2 align="center" id="advanced-cs"> ADVANCED CS </h2>
 <h3 align="center"> Corresponds roughly to the final year of a computer science curriculum, taking electives according to the student's interests </h3>
 
 __Note:__ My particular interest was in Machine Learning, therefore I undertook the Deep Learning Specialization by prof. Andrew Ng right after the completion of his Machine Learning course on Coursera.
@@ -184,7 +190,7 @@ DL3 | > [Structuring Machine Learning Projects](https://www.coursera.org/learn/m
 DL4 | > [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome) | Aug 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/4UG7AR3NJXCX) 
 DL5 | > [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome) | Aug 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/P5F52CRDW3WU) 
 
-<h2 align="center"> PROJECTS </h2>
+<h2 align="center" id="projects"> PROJECTS </h2>
 <h3 align="center">  Include both curriculum and extra-curriculum projects to validate, consolidate, and display my knowledge </h3>
 
 ID# | Project | Completed | Proof 
