@@ -208,4 +208,4 @@ extra | Titanic: Quick model first, then data manipulation - binary classificati
 extra | Under the Hood: A Dense Neural Network w/Titanic dataset - binary classification | Aug 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/under-the-hood-a-dense-net-on-titanic-dataset)
 extra | Under the Hood: A Dense Neural Network w/MNIST dataset - digit recognition | Sep 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/under-the-hood-a-dense-net-w-mnist-dataset)
 001 | [CS50's](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) Final Project: An interactive web app 'Digit Recognizer' with machine learning | Sep 2018 | [Repository](https://github.com/szaitseff/CS50_Harvard) + [YouTube](https://www.youtube.com/watch?v=ein2VnyxFTQ&t=12s)
-extra | Digit Recognizer with CNN on Keras | Nov 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/digit-recognizer-with-cnn-on-keras)
+extra | Fast LeNet-5 in Keras | Nov 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/fast-lenet5-in-keras)
