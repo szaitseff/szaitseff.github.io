@@ -124,7 +124,7 @@ ID# | Course | Completed | Proof
 :--: | :-- | :--: | :--: 
 016 | [Build a Modern Computer from First Principles: From Nand to Tetris by HUJ on Coursera](https://www.coursera.org/learn/build-a-computer) | Mar 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/2J85KDKJQ9UB) 
 017 | [Build a Modern Computer from First Principles: Nand to Tetris Part II by HUJ on Coursera](https://www.coursera.org/learn/nand2tetris2) | - | [-]() 
-018 | [Introduction to Computer Networking by Stanford on Lagunita](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | In Progress | [-]() 
+018 | [Introduction to Computer Networking by Stanford on Lagunita](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | Nov 2018 | [Statement of Accomplishment](https://prod-cert-bucket.s3.amazonaws.com/downloads/e4bafa53e4b84cf2b4704622c73d3b3e/Statement.pdf) 
 019 | [ops-class.org - Hack the Kernel](https://www.ops-class.org/) | - | [-]()
 
 <h3 align="center"> Core Theory </h3>
