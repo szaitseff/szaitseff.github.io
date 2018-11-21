@@ -17,7 +17,7 @@ The <a href="https://github.com/ossu/computer-science"> <img alt="Open Source So
 > It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements, as it is assumed most of the people following this curriculum are already educated outside the field of CS.
 > The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc.
 
-The <a href="https://github.com/ossu/computer-science"> <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"> </a> curriculum is designed as follows (I don't follow the exact sequence of courses and opt-put of e.g. Math courses):
+The <a href="https://github.com/ossu/computer-science"> <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"> </a> curriculum is designed as follows:
 
 <h3> Quick reference: 
 <a href="#intro-to-cs"> Introduction to CS </a> <span> | </span>
@@ -44,7 +44,7 @@ ID# | Course | Completed | Proof
 :--: | :-- | :---: | :--: 
 001 | [CS50's Introduction to Computer Science by Harvard on edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | Oct 2018 | [Certificate](https://courses.edx.org/certificates/6b5ea2dce5844d278577139b014e9ade)
 002 | [6.00.1x Introduction to Computer Science and Programming using Python by MIT on edX](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | Mar 2018 | [Certificate](https://courses.edx.org/certificates/8f58707970a647b0954428a61f019572)
-extra | [How to think like a computer scientist: Learning with Python 3 (a comprehensive online book with exercises)](http://openbookproject.net/thinkcs/python/english3e/) | Mar 2018| [Repository](https://github.com/szaitseff/How_to_think_like_CS)
+extra | [How to think like a computer scientist: Learning with Python 3 (a classic open-source book with exercises recommended by python.org)](http://openbookproject.net/thinkcs/python/english3e/) | Mar 2018| [Repository](https://github.com/szaitseff/How_to_think_like_CS)
 extra | [SQL Fundamentals by Sololearn](https://www.sololearn.com/Play/SQL) | May 2018 | [Certificate](https://www.sololearn.com/Certificate/1060-7307490/pdf/)
 extra | [HTML Fundamentals by Sololearn](https://www.sololearn.com/Play/HTML) | Sep 2018 | [Certificate](https://www.sololearn.com/Certificate/1014-7307490/pdf/)
 extra | [CSS Fundamentals by Sololearn](https://www.sololearn.com/Play/CSS) | In Progress | [-]()
@@ -52,7 +52,7 @@ extra | [JavaScript Tutorial by Sololearn](https://www.sololearn.com/Play/JavaSc
 extra | [Python 3 Tutorial by Sololearn](https://www.sololearn.com/Play/Python) | Nov 2018 | [Certificate](https://www.sololearn.com/Certificate/1073-7307490/pdf/)
 
 <h2 align="center" id="core-cs"> Core CS </h2>
-<h3 align="center"> Corresponds roughly to the first three years of a computer science curriculum, taking classes that all majors would be required to take </h3>
+<h3 align="center"> Corresponds roughly to the first 3 years of a computer science curriculum, taking classes that all majors would be required to take </h3>
 
 <h3 align="center"> Core Programming </h3>
 
@@ -70,6 +70,8 @@ extra | [Python 3 Tutorial by Sololearn](https://www.sololearn.com/Play/Python) 
 `Lisp-family languages (via Racket)`
 `Ruby`
 `and more`
+
+**Note:** I stick to Python and its ecosystem so far in my current projects. In CS50, I also learned basics of C and Web stack (HTML/CSS/JS/jQuery+Python/Flask/Jinja+SQLite). Courses in this section teach programming concepts with such languages sa Lisp-family, Java, ML, Ruby, Haskell, Prolog. I prioritize them as 'nice to have', but after I've covered other topics of the Curriculum.
 
 ID# | Course | Completed | Proof 
 :--: | :-- | :--: | :--: 
@@ -102,7 +104,7 @@ ID# | Course | Completed | Proof
 `discrete probability`
 `and more`
 
-#### Note: I opt out from courses 012-015 with credits from my Master degrees in Physics. What I actually need now is a refresher in Statistics. Therefore, I add here an exellent 'Statistical Reasoning' course by Stanford Online from the Data Science Curriculum of OSSU.
+**Note:** I opt out from courses 012-015 with credits from my Master degrees in Physics. What I actually need now is a refresher in Statistics. Therefore, I add here an excellent 'Statistical Reasoning' course by Stanford Online from the [OSSU Data Science](https://github.com/open-source-society/data-science) Curriculum.
 
 ID# | Course | Completed | Proof 
 :--: | :-- | :--: | :--: 
@@ -151,7 +153,7 @@ ID# | Course | Completed | Proof
 020 | [Algorithms: Design and Analysis, Part I by Standord on Lagunita](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) | In Progress | [-]()
 022 | [Algorithms: Design and Analysis, Part II by Stanford on Lagunita](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about) | - | [-]()
 
-**Note:** (4 Algorithms courses on Coursera == 2 Algorithms courses on Lagunita)
+**Note:** (4 Algorithms courses by Stanford on Coursera == 2 Algorithms courses by Stanford on Lagunita)
 
 <h3 align="center"> Core Applications </h3>
 
@@ -175,7 +177,7 @@ ID# | Course | Completed | Proof
 
 ID# | Course | Completed | Proof 
 :--: | :-- | :--: | :--:
-024 | [Databases by Stanford on Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | In Progress | Statement of Accomplishment for each sub-course
+024 | [Databases by Stanford on Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | In Progress | Statements of Accomplishment for sub-courses
 DB4 | > [Relational Algebra](https://lagunita.stanford.edu/courses/DB/RA/SelfPaced/info) | May 2018 | [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/eb199d6798804513aa2efc34744e043b/Statement.pdf)
 DB5 | > [SQL](https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/info) | May 2018 | [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/d62d1e87fd484bfe90ef2e5d7b61fdca/Statement.pdf)
 DB2 | > [XML Data](https://lagunita.stanford.edu/courses/DB/XML/SelfPaced/info) | Jun 2018 | [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/50de9c09333e42248fa667b69a5df31f/Statement.pdf)
@@ -189,7 +191,7 @@ DB3 | > [JSON Data](https://lagunita.stanford.edu/courses/DB/JSON/SelfPaced/info
 <h2 align="center" id="advanced-cs"> Advanced CS </h2>
 <h3 align="center"> Corresponds roughly to the final year of a computer science curriculum, taking electives according to the student's interests </h3>
 
-__Note:__ My particular interest was in Machine Learning, therefore I undertook the Deep Learning Specialization by prof. Andrew Ng right after the completion of his Machine Learning course on Coursera.
+**Note:** My particular interest was in Machine Learning, therefore I undertook the Deep Learning Specialization by prof. Andrew Ng right after the completion of his Machine Learning course on Coursera.
 
 <h3 align="center"> Advanced applications </h3>
 
