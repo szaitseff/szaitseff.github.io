@@ -71,7 +71,7 @@ extra | [Python 3 Tutorial by Sololearn](https://www.sololearn.com/Play/Python) 
 `Ruby`
 `and more`
 
-**Note:** I stick to Python and its ecosystem so far in my current projects. In CS50, I also learned basics of C and Web stack (HTML/CSS/JS/jQuery+Python/Flask/Jinja+SQLite). Courses in this section teach programming concepts with such languages sa Lisp-family, Java, ML, Ruby, Haskell, Prolog. I prioritize them as 'nice to have', but after I've covered other topics of the Curriculum.
+**Note:** I stick to Python and its ecosystem so far in my current projects. In CS50, I also learned basics of C and Web stack (HTML/CSS/JS/jQuery+Python/Flask/Jinja+SQLite). Courses in this section teach programming concepts with such languages as Lisp-family, Java, ML, Ruby, Haskell, Prolog. I prioritize them as 'nice to have', but after I've covered other topics of the Curriculum.
 
 ID# | Course | Completed | Proof 
 :--: | :-- | :--: | :--: 
