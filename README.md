@@ -102,7 +102,11 @@ ID# | Course | Completed | Proof
 `discrete probability`
 `and more`
 
-#### Courses 012-015: I opt out from these courses with credits from my Master degree in Physics.
+#### Note: I opt out from courses 012-015 with credits from my Master degrees in Physics. What I actually need now is a refresher in Statistics. Therefore, I add here an exellent 'Statistical Reasoning' course by Stanford Online from the Data Science Curriculum of OSSU.
+
+ID# | Course | Completed | Proof 
+:--: | :-- | :--: | :--: 
+extra | [Statistical Reasoning by Standord on Lagunita](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about) | In Progress | [-]()
 
 <h3 align="center"> Core Systems </h3>
 
