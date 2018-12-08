@@ -104,10 +104,11 @@ ID# | Course | Completed | Proof
 `discrete probability`
 `and more`
 
-**Note:** I opt out from courses 012-015 with credits from my Master degrees in Physics. What I actually need now is a refresher in Statistics. Therefore, I add here an excellent 'Statistical Reasoning' course by Stanford Online from the [OSSU Data Science](https://github.com/open-source-society/data-science) Curriculum.
+**Note:** I opt out from courses 012-014 on Culculus and Linear Algebra with credits from my Master degrees in Physics. And I use MIT's materials from 015 "Math for CS" for reference purposes. What I actually need is a refresher in Statistics. Therefore, I add here an excellent 'Statistical Reasoning' course by Stanford Online from the [OSSU Data Science](https://github.com/open-source-society/data-science) Curriculum.
 
 ID# | Course | Completed | Proof 
-:--: | :-- | :--: | :--: 
+:--: | :-- | :--: | :--:
+015 | [Mathematics for CS by MIT Open Courseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | For reference | [-]()
 extra | [Statistical Reasoning by Standord on Lagunita](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about) | In Progress | [-]()
 
 <h3 align="center"> Core Systems </h3>
