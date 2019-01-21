@@ -217,3 +217,4 @@ extra | Under the Hood: A Dense Neural Network w/Titanic dataset - binary classi
 extra | Under the Hood: A Dense Neural Network w/MNIST dataset - digit recognition | Sep 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/under-the-hood-a-dense-net-w-mnist-dataset)
 001 | [CS50's](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) Final Project: An interactive web app 'Digit Recognizer' with machine learning | Sep 2018 | [Repository](https://github.com/szaitseff/CS50_Harvard) + [YouTube](https://www.youtube.com/watch?v=ein2VnyxFTQ&t=12s)
 extra | Fast LeNet-5 CNN in Keras | Nov 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/fast-lenet5-in-keras)
+extra | Classification of Time Series with LSTM RNN | Jan 2018| [Kaggle kernel](https://www.kaggle.com/szaitseff/classification-of-time-series-with-lstm-rnn)
