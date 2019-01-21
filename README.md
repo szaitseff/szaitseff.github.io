@@ -132,7 +132,7 @@ ID# | Course | Completed | Proof
 :--: | :-- | :--: | :--: 
 016 | [Build a Modern Computer from First Principles: From Nand to Tetris by HUJ on Coursera](https://www.coursera.org/learn/build-a-computer) | Mar 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/2J85KDKJQ9UB) 
 017 | [Build a Modern Computer from First Principles: Nand to Tetris Part II by HUJ on Coursera](https://www.coursera.org/learn/nand2tetris2) | - | [-]() 
-018 | [Introduction to Computer Networking by Stanford on Lagunita](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | Nov 2018 | [Statement of Accomplishment](https://prod-cert-bucket.s3.amazonaws.com/downloads/e4bafa53e4b84cf2b4704622c73d3b3e/Statement.pdf) 
+018 | [Introduction to Computer Networking by Stanford on Lagunita](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | Nov 2018 | [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/e4bafa53e4b84cf2b4704622c73d3b3e/Statement.pdf) 
 019 | [ops-class.org - Hack the Kernel](https://www.ops-class.org/) | - | [-]()
 
 <h3 align="center"> Core Theory </h3>
@@ -152,7 +152,7 @@ ID# | Course | Completed | Proof
 
 ID# | Course | Completed | Proof 
 :--: | :-- | :--: | :--:
-020 | [Algorithms: Design and Analysis, Part I by Standord on Lagunita](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) | Dec 2018 | [Statement of Accomplishment](https://prod-cert-bucket.s3.amazonaws.com/downloads/660109b42ee0404e9df63132a96abe08/Statement.pdf)
+020 | [Algorithms: Design and Analysis, Part I by Standord on Lagunita](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) | Dec 2018 | [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/660109b42ee0404e9df63132a96abe08/Statement.pdf)
 022 | [Algorithms: Design and Analysis, Part II by Stanford on Lagunita](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about) | - | [-]()
 
 **Note:** (4 Algorithms courses by Stanford on Coursera == 2 Algorithms courses by Stanford on Lagunita)
@@ -179,16 +179,18 @@ ID# | Course | Completed | Proof
 
 ID# | Course | Completed | Proof 
 :--: | :-- | :--: | :--:
-024 | [Databases by Stanford on Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | In Progress | Statements of Accomplishment for sub-courses
-DB4 | > [Relational Algebra](https://lagunita.stanford.edu/courses/DB/RA/SelfPaced/info) | May 2018 | [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/eb199d6798804513aa2efc34744e043b/Statement.pdf)
-DB5 | > [SQL](https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/info) | May 2018 | [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/d62d1e87fd484bfe90ef2e5d7b61fdca/Statement.pdf)
-DB2 | > [XML Data](https://lagunita.stanford.edu/courses/DB/XML/SelfPaced/info) | Jun 2018 | [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/50de9c09333e42248fa667b69a5df31f/Statement.pdf)
-DB3 | > [JSON Data](https://lagunita.stanford.edu/courses/DB/JSON/SelfPaced/info) | Jun 2018 | [SoA](https://prod-cert-bucket.s3.amazonaws.com/downloads/2d4aaa018f2940fcb43e23ee2a9dd6da/Statement.pdf)
+024 | [Databases by Stanford on Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | In Progress | Certificate for each sub-course
+DB4 | > [Relational Algebra](https://lagunita.stanford.edu/courses/DB/RA/SelfPaced/info) | May 2018 | [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/eb199d6798804513aa2efc34744e043b/Statement.pdf)
+DB5 | > [SQL](https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/info) | May 2018 | [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/d62d1e87fd484bfe90ef2e5d7b61fdca/Statement.pdf)
+DB2 | > [XML Data](https://lagunita.stanford.edu/courses/DB/XML/SelfPaced/info) | Jun 2018 | [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/50de9c09333e42248fa667b69a5df31f/Statement.pdf)
+DB3 | > [JSON Data](https://lagunita.stanford.edu/courses/DB/JSON/SelfPaced/info) | Jun 2018 | [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/2d4aaa018f2940fcb43e23ee2a9dd6da/Statement.pdf)
 025 | [Machine Learning by Stanford on Coursera](https://www.coursera.org/learn/machine-learning) | Jun 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/P4DMPJE7BNDQ)
 026 | [Computer Graphics by UCSD on edX](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | - | [-]()
 027 | [Cryptography I by Stanford on Coursera](https://www.coursera.org/course/crypto) | - | [-]()
 028 | [Software Engineering: Introduction by UBC on edX](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | - | [-]()
 029 | [Software Development Capstone Project by UBC on edX](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | - | [-]()
+extra | [DataCamp Training in Data Science](https://www.datacamp.com) | - | Certificate for each course
+extra | > [Visualizing Time Series Data in Python](https://www.datacamp.com/courses/visualizing-time-series-data-in-python) | Jan 2019 | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/2f2d111c30bd6b794ea41a231ddcbc164d28f6a2)
 
 <h2 align="center" id="advanced-cs"> Advanced CS </h2>
 <h3 align="center"> Corresponds roughly to the final year of a computer science curriculum, taking electives according to the student's interests </h3>
