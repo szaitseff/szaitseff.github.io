@@ -110,7 +110,7 @@ ID# | Course | Completed | Proof
 ID# | Course | Completed | Proof 
 :--: | :-- | :--: | :--:
 015 | [Mathematics for CS by MIT Open Courseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | For reference | [-]()
-extra | [Statistical Reasoning by Standord on Lagunita](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about) | In Progress | [-]()
+extra | [Statistical Reasoning by Standord on Lagunita](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about) | Jan 2019 | [Progress records](https://github.com/szaitseff/szaitseff.github.io/blob/master/assets/StatReasoning_Progress.jpg?raw=true)
 
 <h3 align="center"> Core Systems </h3>
 
