@@ -190,7 +190,7 @@ DB3 | > [JSON Data](https://lagunita.stanford.edu/courses/DB/JSON/SelfPaced/info
 028 | [Software Engineering: Introduction by UBC on edX](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | - | [-]()
 029 | [Software Development Capstone Project by UBC on edX](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | - | [-]()
 extra | [Machine Learning & Data Analysis Specialization by MIPT/Yandex on Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis) | In progress | [-]()
-extra | > [Math & Python for Data Analysis by MIPT/Yandex on Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis) | In progress | [-]()
+extra | > [Math & Python for Data Analysis by MIPT/Yandex on Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis) | Feb 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/U73FKPTHM2E6)
 extra | > [Supervised Machine Learning by MIPT/Yandex on Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis) | In progress | [-]()
 extra | [DataCamp Training in Data Science](https://www.datacamp.com) | - | Certificate for each course
 extra | > [Visualizing Time Series Data in Python](https://www.datacamp.com/courses/visualizing-time-series-data-in-python) | Jan 2019 | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/2f2d111c30bd6b794ea41a231ddcbc164d28f6a2)
