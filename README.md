@@ -6,26 +6,44 @@
   <a href="https://linkedin.com/in/szaitseff"> LinkedIn </a> <span> | </span>
   <a href="https://twitter.com/szaitseff"> Twitter </a> <span> | </span>
   <a href="https://www.codewars.com/users/szaitseff"> Codewars </a> <span> | </span>
-  <a href="https://www.sololearn.com/Profile/7307490"> Sololearn </a> <span> | </span>
-  <a href="https://trello.com/b/y41FYoXB"> Trello Kanban Board </a>
+  <a href="https://www.sololearn.com/Profile/7307490"> Sololearn </a> <span>
 </p>
 
-Hey, I am Sergei. I have master degrees in Physics and Economics, and continue professional development in Computer Science with particular interest in Machine Learning. Here is a complete log of my progress in Computer Science guided by the <a href="https://github.com/ossu/computer-science"> <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"> </a> curriculum. It also includes my extra curriculum activities in Computer Science and Data Science. My coursework code is placed in separate repositories, where applicable. 
+Hey, I am Sergei. I have master degrees in Physics and Economics, and continue professional development in Computer Science with particular interest in Data Science and Machine Learning. Here is a complete log of my progress in Computer Science guided by the [OSSU Computer Science Curriculum](https://github.com/ossu/computer-science/blob/dev/README.md). It also includes my extra curriculum activities in Computer Science and Data Science. My coursework code is placed in separate repositories, where applicable. 
 
-The <a href="https://github.com/ossu/computer-science"> <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"> </a> describes its Curriculum as:
+The OSSU describes its Curriculum as:
 > ... a **complete education in computer science** using online materials.
 > It's for those who want a proper, *well-rounded* grounding in concepts fundamental to all computing disciplines.
 > It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements, as it is assumed most of the people following this curriculum are already educated outside the field of CS.
 > The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc.
 
-The <a href="https://github.com/ossu/computer-science"> <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"> </a> curriculum is designed as follows:
+The [OSSU Computer Science Curriculum](https://github.com/ossu/computer-science/blob/dev/README.md) is designed into the following sections (with a quick ref link to each of them):
 
-<h3> Quick reference: 
-<a href="#intro-to-cs"> Introduction to CS </a> <span> | </span>
-<a href="#core-cs"> Core CS </a> <span> | </span>
-<a href="#advanced-cs"> Advanced CS </a> <span> | </span>
-<a href="#projects"> Projects </a>
-</h3>
+<a href="#intro-to-cs"> *Intro CS* </a> - for students to try out CS and see if it's right for them <br>
+<a href="#core-cs"> *Core CS* </a> - corresponds roughly to the first three years of a computer science curriculum, taking classes that all majors would be required to take <br>
+<a href="#advanced-cs"> *Advanced CS* </a> - corresponds roughly to the final year of a computer science curriculum, taking electives according to the student's interests <br>
+<a href="#projects"> *Projects* </a> - to validate, consolidate, and display the knowledge
+
+With my progress in the CS Curriculum, I've got a particular interest in Data Science and Machine Learning. The OSSU also has a [Data Science Curriculum](https://github.com/ossu/data-science/blob/master/README.md), which is heavily biased towards the math basics. With a solid math background, I prefer to complement the original CS Curriculum with the best available courses in Data Science. Therefore, I've added the whole new section on Data Science and Machine Learning, which comes the first below.
+
+<h2 align="center" id="ds"> Data Science and Machine Learning </h2>
+<h3 align="center"> My activities in DS and ML complementary to the main CS Curriculum </h3>
+
+ID# | Course | Completed | Proof 
+:--: | :-- | :---: | :--: 
+extra | [Machine Learning & Data Analysis Specialization by MIPT/Yandex on Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis) | In progress | [-]()
+MLDA1 | > [Math & Python for Data Analysis by MIPT/Yandex on Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis) | Feb 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/U73FKPTHM2E6)
+MLDA2 | > [Supervised Machine Learning by MIPT/Yandex on Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis) | In progress | [-]()
+MLDA3 | > [Unsupervised Machine Learning by MIPT/Yandex on Coursera](https://www.coursera.org/learn/unsupervised-learning) | In progress | [-]()
+extra | [Deep Learning Specialization by deeplearning.ai on Coursera](https://www.coursera.org/specializations/deep-learning) | Aug 2018 | [Certificate](https://www.coursera.org/account/accomplishments/specialization/WX4QM93ZJNTK)
+DL1 | > [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) | Jul 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/JPS5VPZFDW8K)
+DL2 | > [Improving Deep NN: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome) | Jul 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/AV5MPSUC3M7X)
+DL3 | > [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome) | Jul 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/YAU7N35EF4JA)
+DL4 | > [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome) | Aug 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/4UG7AR3NJXCX) 
+DL5 | > [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome) | Aug 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/P5F52CRDW3WU) 
+extra | [Big Data Expert by NewProLab - offline start 2019-03-26](http://newprolab.com/ru/bigdata) | - | -
+extra | [DataCamp Training in Data Science](https://www.datacamp.com) | - | -
+ DC1 | > [Visualizing Time Series Data in Python](https://www.datacamp.com/courses/visualizing-time-series-data-in-python) | Jan 2019 | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/2f2d111c30bd6b794ea41a231ddcbc164d28f6a2)
 
 <h2 align="center" id="intro-to-cs"> Introduction to CS </h2>
 <h3 align="center"> For students to try out CS and see if it's right for them </h3>
@@ -110,7 +128,7 @@ ID# | Course | Completed | Proof
 ID# | Course | Completed | Proof 
 :--: | :-- | :--: | :--:
 015 | [Mathematics for CS by MIT Open Courseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | For reference | [-]()
-extra | [Statistical Reasoning by Standord on Lagunita](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about) | Jan 2019 | [Progress records](https://github.com/szaitseff/szaitseff.github.io/blob/master/assets/StatReasoning_Progress.jpg?raw=true)
+extra | [Statistical Reasoning by Stanford on Lagunita](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about) | Jan 2019 | [Progress records](https://github.com/szaitseff/szaitseff.github.io/blob/master/assets/StatReasoning_Progress.jpg?raw=true)
 
 <h3 align="center"> Core Systems </h3>
 
@@ -189,27 +207,10 @@ DB3 | > [JSON Data](https://lagunita.stanford.edu/courses/DB/JSON/SelfPaced/info
 027 | [Cryptography I by Stanford on Coursera](https://www.coursera.org/course/crypto) | - | [-]()
 028 | [Software Engineering: Introduction by UBC on edX](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | - | [-]()
 029 | [Software Development Capstone Project by UBC on edX](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | - | [-]()
-extra | [Machine Learning & Data Analysis Specialization by MIPT/Yandex on Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis) | In progress | [-]()
-extra | > [Math & Python for Data Analysis by MIPT/Yandex on Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis) | Feb 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/U73FKPTHM2E6)
-extra | > [Supervised Machine Learning by MIPT/Yandex on Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis) | In progress | [-]()
-extra | [DataCamp Training in Data Science](https://www.datacamp.com) | - | Certificate for each course
-extra | > [Visualizing Time Series Data in Python](https://www.datacamp.com/courses/visualizing-time-series-data-in-python) | Jan 2019 | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/2f2d111c30bd6b794ea41a231ddcbc164d28f6a2)
+
 
 <h2 align="center" id="advanced-cs"> Advanced CS </h2>
 <h3 align="center"> Corresponds roughly to the final year of a computer science curriculum, taking electives according to the student's interests </h3>
-
-**Note:** My particular interest was in Machine Learning, therefore I undertook the Deep Learning Specialization by prof. Andrew Ng right after the completion of his Machine Learning course on Coursera.
-
-<h3 align="center"> Advanced applications </h3>
-
-ID# | Course | Completed | Proof 
-:--: | :-- | :--: | :--:
-extra | [Deep Learning Specialization by deeplearning.ai on Coursera](https://www.coursera.org/specializations/deep-learning) | Aug 2018 | [Certificate](https://www.coursera.org/account/accomplishments/specialization/WX4QM93ZJNTK)
-DL1 | > [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) | Jul 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/JPS5VPZFDW8K)
-DL2 | > [Improving Deep NN: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome) | Jul 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/AV5MPSUC3M7X)
-DL3 | > [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome) | Jul 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/YAU7N35EF4JA)
-DL4 | > [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome) | Aug 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/4UG7AR3NJXCX) 
-DL5 | > [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome) | Aug 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/P5F52CRDW3WU) 
 
 <h2 align="center" id="projects"> Projects </h2>
 <h3 align="center">  Include both curriculum and extra-curriculum projects to validate, consolidate, and display my knowledge </h3>
