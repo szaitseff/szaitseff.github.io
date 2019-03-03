@@ -7,7 +7,7 @@
   <a href="https://twitter.com/szaitseff"> Twitter </a> <span> | </span>
   <a href="https://www.codewars.com/users/szaitseff"> Codewars </a> <span> | </span>
   <a href="https://www.sololearn.com/Profile/7307490"> Sololearn </a> <span>
-</p>
+</p> <br>
 
 Hey, I am Sergei. I have master degrees in Physics and Economics, and continue professional development in Computer Science with particular interest in Data Science and Machine Learning. Here is a complete log of my progress in Computer Science guided by the [OSSU Computer Science Curriculum](https://github.com/ossu/computer-science/blob/dev/README.md). It also includes my extra curriculum activities in Computer Science and Data Science. My coursework code is placed in separate repositories, where applicable. 
 
