@@ -33,7 +33,7 @@ ID# | Course | Completed | Proof
 :--: | :-- | :---: | :--: 
 extra | [Machine Learning & Data Analysis Specialization by MIPT/Yandex on Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis) | In progress | [-]()
 MLDA1 | > [Math & Python for Data Analysis by MIPT/Yandex on Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis) | Feb 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/U73FKPTHM2E6)
-MLDA2 | > [Supervised Machine Learning by MIPT/Yandex on Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis) | Mar 2019 | [Certificate](https://www.coursera.org/account/accomplishments/records/WZ6JRZVF6GSF)
+MLDA2 | > [Supervised Machine Learning by MIPT/Yandex on Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis) | Mar 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/WZ6JRZVF6GSF)
 MLDA3 | > [Unsupervised Machine Learning by MIPT/Yandex on Coursera](https://www.coursera.org/learn/unsupervised-learning) | In progress | [-]()
 extra | [Deep Learning Specialization by deeplearning.ai on Coursera](https://www.coursera.org/specializations/deep-learning) | Aug 2018 | [Certificate](https://www.coursera.org/account/accomplishments/specialization/WX4QM93ZJNTK)
 DL1 | > [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) | Jul 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/JPS5VPZFDW8K)
