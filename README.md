@@ -31,7 +31,7 @@ With my progress in the CS Curriculum, I've got a particular interest in Data Sc
 
 ID# | Course | Completed | Proof 
 :--: | :-- | :---: | :--: 
-extra | [Big Data Expert by NewProLab](http://newprolab.com/ru/bigdata) | In Progress | -
+extra | [BD10.0 Big Data Expert by NewProLab (offline 12 week boot camp)](http://newprolab.com/ru/bigdata) | In Progress | -
 extra | [Machine Learning & Data Analysis Specialization by MIPT/Yandex on Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis) | - | [-]()
 MLDA1 | > [Math & Python for Data Analysis by MIPT/Yandex on Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis) | Feb 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/U73FKPTHM2E6)
 MLDA2 | > [Supervised Machine Learning by MIPT/Yandex on Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis) | Mar 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/WZ6JRZVF6GSF)
