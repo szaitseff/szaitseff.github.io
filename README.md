@@ -31,18 +31,18 @@ With my progress in the CS Curriculum, I've got a particular interest in Data Sc
 
 ID# | Course | Completed | Proof 
 :--: | :-- | :---: | :--: 
-extra | [Big Data 10.0 by NewProLab (offline 12 week intensive program - Hadoop, Apache Spark, DMP, Text Mining, Recommender Systems)](http://newprolab.com/ru/bigdata) | Jun 2019 | [Certificate with Honors]()
-extra | [Machine Learning & Data Analysis Specialization by MIPT/Yandex on Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis) | - | [-]()
+BD10 | [Big Data 10.0 by NewProLab (offline 12 week intensive program - Hadoop, Apache Spark, DMP, Text Mining, Recommender Systems)](http://newprolab.com/ru/bigdata) | Jun 2019 | [Certificate with Honors]()
+MLDA | [Machine Learning & Data Analysis Specialization by MIPT/Yandex on Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis) | - | [-]()
 MLDA1 | > [Math & Python for Data Analysis by MIPT/Yandex on Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis) | Feb 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/U73FKPTHM2E6)
 MLDA2 | > [Supervised Machine Learning by MIPT/Yandex on Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis) | Mar 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/WZ6JRZVF6GSF)
 MLDA3 | > [Unsupervised Machine Learning by MIPT/Yandex on Coursera](https://www.coursera.org/learn/unsupervised-learning) | Mar 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/2M9QXKPC9EJZ)
-extra | [Deep Learning Specialization by deeplearning.ai on Coursera](https://www.coursera.org/specializations/deep-learning) | Aug 2018 | [Certificate](https://www.coursera.org/account/accomplishments/specialization/WX4QM93ZJNTK)
+DL | [Deep Learning Specialization by deeplearning.ai on Coursera](https://www.coursera.org/specializations/deep-learning) | Aug 2018 | [Certificate](https://www.coursera.org/account/accomplishments/specialization/WX4QM93ZJNTK)
 DL1 | > [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) | Jul 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/JPS5VPZFDW8K)
 DL2 | > [Improving Deep NN: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome) | Jul 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/AV5MPSUC3M7X)
 DL3 | > [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome) | Jul 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/YAU7N35EF4JA)
 DL4 | > [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome) | Aug 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/4UG7AR3NJXCX) 
 DL5 | > [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome) | Aug 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/P5F52CRDW3WU)
-extra | [DataCamp Training in Data Science](https://www.datacamp.com) | - | -
+DC | [DataCamp Training in Data Science](https://www.datacamp.com) | - | -
  DC1 | > [Visualizing Time Series Data in Python](https://www.datacamp.com/courses/visualizing-time-series-data-in-python) | Jan 2019 | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/2f2d111c30bd6b794ea41a231ddcbc164d28f6a2)
 
 <h2 align="center" id="intro-to-cs"> Introduction to CS </h2>
@@ -63,12 +63,12 @@ ID# | Course | Completed | Proof
 :--: | :-- | :---: | :--: 
 001 | [CS50's Introduction to Computer Science by Harvard on edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | Oct 2018 | [Certificate](https://courses.edx.org/certificates/6b5ea2dce5844d278577139b014e9ade)
 002 | [6.00.1x Introduction to Computer Science and Programming using Python by MIT on edX](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | Mar 2018 | [Certificate](https://courses.edx.org/certificates/8f58707970a647b0954428a61f019572)
-extra | [How to think like a computer scientist: Learning with Python 3 (a classic open-source book with exercises recommended by python.org)](http://openbookproject.net/thinkcs/python/english3e/) | Mar 2018| [Repository](https://github.com/szaitseff/How_to_think_like_CS)
-extra | [SQL Fundamentals by Sololearn](https://www.sololearn.com/Play/SQL) | May 2018 | [Certificate](https://www.sololearn.com/Certificate/1060-7307490/pdf/)
-extra | [HTML Fundamentals by Sololearn](https://www.sololearn.com/Play/HTML) | Sep 2018 | [Certificate](https://www.sololearn.com/Certificate/1014-7307490/pdf/)
-extra | [CSS Fundamentals by Sololearn](https://www.sololearn.com/Play/CSS) | In Progress | [-]()
-extra | [JavaScript Tutorial by Sololearn](https://www.sololearn.com/Play/JavaScript) | Sep 2018 | [Certificate](https://www.sololearn.com/Certificate/1024-7307490/pdf/)
-extra | [Python 3 Tutorial by Sololearn](https://www.sololearn.com/Play/Python) | Nov 2018 | [Certificate](https://www.sololearn.com/Certificate/1073-7307490/pdf/)
+CS | [How to think like a computer scientist: Learning with Python 3 (a classic open-source book with exercises recommended by python.org)](http://openbookproject.net/thinkcs/python/english3e/) | Mar 2018| [Repository](https://github.com/szaitseff/How_to_think_like_CS)
+CS | [SQL Fundamentals by Sololearn](https://www.sololearn.com/Play/SQL) | May 2018 | [Certificate](https://www.sololearn.com/Certificate/1060-7307490/pdf/)
+CS | [HTML Fundamentals by Sololearn](https://www.sololearn.com/Play/HTML) | Sep 2018 | [Certificate](https://www.sololearn.com/Certificate/1014-7307490/pdf/)
+CS | [CSS Fundamentals by Sololearn](https://www.sololearn.com/Play/CSS) | In Progress | [-]()
+CS | [JavaScript Tutorial by Sololearn](https://www.sololearn.com/Play/JavaScript) | Sep 2018 | [Certificate](https://www.sololearn.com/Certificate/1024-7307490/pdf/)
+CS | [Python 3 Tutorial by Sololearn](https://www.sololearn.com/Play/Python) | Nov 2018 | [Certificate](https://www.sololearn.com/Certificate/1073-7307490/pdf/)
 
 <h2 align="center" id="core-cs"> Core CS </h2>
 <h3 align="center"> Corresponds roughly to the first 3 years of a computer science curriculum, taking classes that all majors would be required to take </h3>
