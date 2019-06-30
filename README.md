@@ -217,11 +217,14 @@ DB3 | > [JSON Data](https://lagunita.stanford.edu/courses/DB/JSON/SelfPaced/info
 
 ID# | Project | Completed | Proof 
 :--: | :-- | :--: | :--:
-016 | [Nand2Tetris](https://www.coursera.org/learn/build-a-computer) Final Project: Assembler in Python for the Hack Computer | Mar 2018 | [Repository](https://github.com/szaitseff/Nand2Tetris)
-extra | Titanic: Quick model first, then data manipulation - binary classification | Jul 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/titanic-quick-model-first-then-data-manipulation/versions)
-extra | Under the Hood: A Dense Neural Network w/Titanic dataset - binary classification | Aug 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/under-the-hood-a-dense-net-on-titanic-dataset)
-extra | Under the Hood: A Dense Neural Network w/MNIST dataset - digit recognition | Sep 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/under-the-hood-a-dense-net-w-mnist-dataset)
-001 | [CS50's](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) Final Project: An interactive web app 'Digit Recognizer' with machine learning | Sep 2018 | [Repository](https://github.com/szaitseff/CS50_Harvard) + [YouTube](https://www.youtube.com/watch?v=ein2VnyxFTQ&t=12s)
+DS | Content based recommendation system | Jun 2019 | [Github repo](https://github.com/szaitseff/BigData-10.0/tree/master/project2_content_based_recommender)
+DS | Predict gender and from web logs | May 2019 | [Github repo](https://github.com/szaitseff/BigData-10.0/tree/master/project1_predict_age_gender_from_web_logs)
+DS | Classification of Time Series with LSTM RNN | Jan 2019| [Kaggle kernel](https://www.kaggle.com/szaitseff/classification-of-time-series-with-lstm-rnn)
+DS | Online Learning of Time Series with LSTM RNN | Jan 2019| [Kaggle kernel](https://www.kaggle.com/szaitseff/online-learning-of-time-series-with-lstm-rnn?scriptVersionId=9872571)
 extra | Fast LeNet-5 CNN in Keras | Nov 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/fast-lenet5-in-keras)
-extra | Classification of Time Series with LSTM RNN | Jan 2019| [Kaggle kernel](https://www.kaggle.com/szaitseff/classification-of-time-series-with-lstm-rnn)
-extra | Online Learning of Time Series with LSTM RNN | Jan 2019| [Kaggle kernel](https://www.kaggle.com/szaitseff/online-learning-of-time-series-with-lstm-rnn?scriptVersionId=9872571)
+001 | [CS50's](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) Final Project: An interactive web app 'Digit Recognizer' with machine learning | Sep 2018 | [Github repo](https://github.com/szaitseff/CS50_Harvard) + [YouTube](https://www.youtube.com/watch?v=ein2VnyxFTQ&t=12s)
+DS | Under the Hood: A Dense Neural Network w/MNIST dataset - digit recognition | Sep 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/under-the-hood-a-dense-net-w-mnist-dataset)
+DS | Under the Hood: A Dense Neural Network w/Titanic dataset - binary classification | Aug 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/under-the-hood-a-dense-net-on-titanic-dataset)
+DS | Titanic: Quick model first, then data manipulation - binary classification | Jul 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/titanic-quick-model-first-then-data-manipulation/versions)
+016 | [Nand2Tetris](https://www.coursera.org/learn/build-a-computer) Final Project: Assembler in Python for the Hack Computer | Mar 2018 | [Github repo](https://github.com/szaitseff/Nand2Tetris)
+
