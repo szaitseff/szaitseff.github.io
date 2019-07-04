@@ -33,17 +33,18 @@ ID# | Course | Completed | Proof
 :--: | :-- | :---: | :--: 
 BD10 | [Big Data 10.0 by NewProLab (offline 12 week intensive program - Hadoop, Apache Spark, DMP, Text Mining, Recommender Systems)](http://newprolab.com/ru/bigdata) | Jun 2019 | [Certificate with Honors]()
 MLDA | [Machine Learning & Data Analysis Specialization by MIPT/Yandex on Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis) | - | [-]()
-MLDA1 | > [Math & Python for Data Analysis by MIPT/Yandex on Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis) | Feb 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/U73FKPTHM2E6)
-MLDA2 | > [Supervised Machine Learning by MIPT/Yandex on Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis) | Mar 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/WZ6JRZVF6GSF)
 MLDA3 | > [Unsupervised Machine Learning by MIPT/Yandex on Coursera](https://www.coursera.org/learn/unsupervised-learning) | Mar 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/2M9QXKPC9EJZ)
+MLDA2 | > [Supervised Machine Learning by MIPT/Yandex on Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis) | Mar 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/WZ6JRZVF6GSF)
+MLDA1 | > [Math & Python for Data Analysis by MIPT/Yandex on Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis) | Feb 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/U73FKPTHM2E6)
 DL | [Deep Learning Specialization by deeplearning.ai on Coursera](https://www.coursera.org/specializations/deep-learning) | Aug 2018 | [Certificate](https://www.coursera.org/account/accomplishments/specialization/WX4QM93ZJNTK)
-DL1 | > [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) | Jul 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/JPS5VPZFDW8K)
-DL2 | > [Improving Deep NN: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome) | Jul 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/AV5MPSUC3M7X)
-DL3 | > [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome) | Jul 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/YAU7N35EF4JA)
-DL4 | > [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome) | Aug 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/4UG7AR3NJXCX) 
 DL5 | > [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome) | Aug 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/P5F52CRDW3WU)
+DL4 | > [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome) | Aug 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/4UG7AR3NJXCX) 
+DL3 | > [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome) | Jul 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/YAU7N35EF4JA)
+DL2 | > [Improving Deep NN: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome) | Jul 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/AV5MPSUC3M7X)
+DL1 | > [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) | Jul 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/JPS5VPZFDW8K)
 DC | [DataCamp Training in Data Science](https://www.datacamp.com) | - | -
- DC1 | > [Visualizing Time Series Data in Python](https://www.datacamp.com/courses/visualizing-time-series-data-in-python) | Jan 2019 | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/2f2d111c30bd6b794ea41a231ddcbc164d28f6a2)
+DC2 | > [Introduction to PySpark](https://www.datacamp.com/courses/introduction-to-pyspark) | Jul 2019 | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/4c957708e9484b3e20213d62dfd7d50fb44075ec)
+DC1 | > [Visualizing Time Series Data in Python](https://www.datacamp.com/courses/visualizing-time-series-data-in-python) | Jan 2019 | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/2f2d111c30bd6b794ea41a231ddcbc164d28f6a2)
 
 <h2 align="center" id="intro-to-cs"> Introduction to CS </h2>
 <h3 align="center"> For students to try out CS and see if it's right for them </h3>
