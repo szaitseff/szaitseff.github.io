@@ -31,7 +31,7 @@ With my progress in the CS Curriculum, I've got a particular interest in Data Sc
 
 ID# | Course | Completed | Proof 
 :--: | :-- | :---: | :--: 
-BD10 | [Big Data 10.0 by NewProLab (offline 12 week intensive program - Hadoop, Apache Spark, DMP, Data Mining, Recommendation Systems)](http://newprolab.com/ru/bigdata) | Jun 2019 | [Certificate with Honors](https://www.evernote.com/l/ANUS5GLaDcFGkpzOfMCayepZ_s39epnDJa0/)
+BD10 | [Big Data 10.0 by NewProLab (offline 12 week intensive program - Hadoop, Apache Spark, DMP, Data Mining, Recommendation Systems)](http://newprolab.com/ru/bigdata) | Jun 2019 | [Certificate with Honors](https://drive.google.com/file/d/12GEEpDdwLfSLUGJn2oaQF33NF7AYEjlC/view?usp=sharing)
 MLDA | [Machine Learning & Data Analysis Specialization by MIPT/Yandex on Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis) | - | [-]()
 MLDA3 | > [Unsupervised Machine Learning by MIPT/Yandex on Coursera](https://www.coursera.org/learn/unsupervised-learning) | Mar 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/2M9QXKPC9EJZ)
 MLDA2 | > [Supervised Machine Learning by MIPT/Yandex on Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis) | Mar 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/WZ6JRZVF6GSF)
