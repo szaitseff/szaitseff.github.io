@@ -9,7 +9,7 @@
   <a href="https://www.sololearn.com/Profile/7307490"> Sololearn </a>
 </p>
 
-Hello, I'm Sergei. I'm a Data Scientist with a broad professional background, with master degrees in Physics and Economics and a professional certificate in accountancy from ACCA. For a number of years I was developing management reporting and controlling systems in corporations (including at C-level), have experience in team leading and project management and continue professional development in data science and machine learning with ambition to build AI systems that could change the way we do business. 
+Hello, I'm Sergei. I'm a Data Scientist with a broad professional background, with master degrees in Physics and Economics and a professional certificate in accountancy from ACCA. For a number of years I was developing management reporting and controlling systems in corporations (including at C-level), have experience in team leading and project management and continue professional development in Data Science and Machine Learning with ambition to build AI systems that could change the way we do business. 
 
 I've created this web page to keep a detailed log of my progress in gaining a solid knowledge in CS and DS initially guided by the [OSSU CS Curriculum](https://github.com/ossu/computer-science/blob/dev/README.md), but subsequently expanded to other extra curriculum activities. It may serve as example for other people looking for an online equvalent of a degree in CS and DS.
 
@@ -26,7 +26,7 @@ The [OSSU CS Curriculum](https://github.com/ossu/computer-science/blob/dev/READM
 <a href="#advanced-cs"> *Advanced CS* </a> - corresponds roughly to the final year of a computer science curriculum, taking electives according to the student's interests <br>
 <a href="#projects"> *Projects* </a> - to validate, consolidate, and display the knowledge
 
-With my progress in CS, I've got a particular interest in Data Science and Machine Learning and complemented the original CS Curriculum with the best available online and offline DS courses. Therefore, I've added the whole new section on Data Science and Machine Learning, which comes the first below.
+With my progress in CS, I've got a particular interest in Data Science and Machine Learning and complemented the original CS Curriculum with some of the best available online and offline DS courses. Therefore, I've added the whole new section on Data Science and Machine Learning, which comes the first below.
 
 <h2 align="center" id="ds"> Data Science and Machine Learning </h2>
 <h3 align="center"> My activities in DS and ML complementary to the main CS Curriculum </h3>
