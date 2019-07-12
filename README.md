@@ -9,7 +9,9 @@
   <a href="https://www.sololearn.com/Profile/7307490"> Sololearn </a>
 </p>
 
-Hey, I am Sergei. I have master degrees in Physics and Economics, and continue professional development in Computer Science with particular interest in Data Science and Machine Learning. Here is a complete log of my progress in Computer Science guided by the [OSSU Computer Science Curriculum](https://github.com/ossu/computer-science/blob/dev/README.md). It also includes my extra curriculum activities in Computer Science and Data Science. My coursework code is placed in separate repositories, where applicable. 
+Hello, I'm Sergei. I'm a Data Scientist with a broad professional background, with master degrees in Physics and Economics and a professional certificate in accountancy from ACCA. For a number of years I was developing management reporting and controlling systems in corporations (including at C-level), have experience in team leading and project management and continue professional development in data science and machine learning with ambition to build AI systems that could change the way we do business. 
+
+I've created this web page to keep a detailed log of my progress in gaining a solid knowledge in CS and DS initially guided by the [OSSU CS Curriculum](https://github.com/ossu/computer-science/blob/dev/README.md), but subsequently expanded to other extra curriculum activities. It may serve as example for other people looking for an online equvalent of a degree in CS and DS.
 
 The OSSU describes its Curriculum as:
 > ... a **complete education in computer science** using online materials.
@@ -17,14 +19,14 @@ The OSSU describes its Curriculum as:
 > It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements, as it is assumed most of the people following this curriculum are already educated outside the field of CS.
 > The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc.
 
-The [OSSU Computer Science Curriculum](https://github.com/ossu/computer-science/blob/dev/README.md) is designed into the following sections (with a quick ref link to each of them):
+The [OSSU CS Curriculum](https://github.com/ossu/computer-science/blob/dev/README.md) is designed into the following sections (with a quick ref link to each of them):
 
 <a href="#intro-to-cs"> *Intro CS* </a> - for students to try out CS and see if it's right for them <br>
 <a href="#core-cs"> *Core CS* </a> - corresponds roughly to the first three years of a computer science curriculum, taking classes that all majors would be required to take <br>
 <a href="#advanced-cs"> *Advanced CS* </a> - corresponds roughly to the final year of a computer science curriculum, taking electives according to the student's interests <br>
 <a href="#projects"> *Projects* </a> - to validate, consolidate, and display the knowledge
 
-With my progress in the CS Curriculum, I've got a particular interest in Data Science and Machine Learning. The OSSU also has a [Data Science Curriculum](https://github.com/ossu/data-science/blob/master/README.md), which is heavily biased towards the math basics. With a solid math background, I prefer to complement the original CS Curriculum with the best available courses in Data Science. Therefore, I've added the whole new section on Data Science and Machine Learning, which comes the first below.
+With my progress in CS, I've got a particular interest in Data Science and Machine Learning and complemented the original CS Curriculum with the best available online and offline DS courses. Therefore, I've added the whole new section on Data Science and Machine Learning, which comes the first below.
 
 <h2 align="center" id="ds"> Data Science and Machine Learning </h2>
 <h3 align="center"> My activities in DS and ML complementary to the main CS Curriculum </h3>
@@ -32,7 +34,7 @@ With my progress in the CS Curriculum, I've got a particular interest in Data Sc
 ID# | Course | Completed | Proof 
 :--: | :-- | :---: | :--: 
 BD10 | [Big Data 10.0 by NewProLab (offline 12 week intensive program - Hadoop, Apache Spark, DMP, Data Mining, Recommendation Systems)](http://newprolab.com/ru/bigdata) | Jun 2019 | [Certificate with Honors](http://lk.cluster-lab.com/certificate/sergey.zaytsev/0234ef5e667b0571a7f20006aa09c7b9cbfa38ec62eb345656f715c5cf0368106fa2a52a13ce544b6ba29c20ce24d450870bd7329ee397e10279c3b92a952a46)
-MLDA | [Machine Learning & Data Analysis Specialization by MIPT/Yandex on Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis) | - | [-]()
+MLDA | [ML & Data Analysis Specialization by MIPT/Yandex on Coursera (RU)](https://www.coursera.org/specializations/machine-learning-data-analysis) | - | [-]()
 MLDA3 | > [Unsupervised Machine Learning by MIPT/Yandex on Coursera](https://www.coursera.org/learn/unsupervised-learning) | Mar 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/2M9QXKPC9EJZ)
 MLDA2 | > [Supervised Machine Learning by MIPT/Yandex on Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis) | Mar 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/WZ6JRZVF6GSF)
 MLDA1 | > [Math & Python for Data Analysis by MIPT/Yandex on Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis) | Feb 2019 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/U73FKPTHM2E6)
@@ -218,8 +220,12 @@ DB3 | > [JSON Data](https://lagunita.stanford.edu/courses/DB/JSON/SelfPaced/info
 
 ID# | Project | Completed | Proof 
 :--: | :-- | :--: | :--:
-DS | Content based recommendation system (Apache Spark) | Jun 2019 | [Github repo](https://github.com/szaitseff/BigData-10.0/tree/master/project2_content_based_recommender)
-DS | Predict gender and age from web logs | May 2019 | [Github repo](https://github.com/szaitseff/BigData-10.0/tree/master/project1_predict_age_gender_from_web_logs)
+DS | Content based recommendation system for Ozon.ru - 1st place on Private leaderboard | Jun 2019 | [Github repo](https://github.com/szaitseff/BigData-10.0/tree/master/project2_content_based_recommender)
+DS | CF recommendation system with implicit feedback | Jun 2019 | [Github repo](https://github.com/szaitseff/BigData-10.0/tree/master/lab10-10s_recommendations_implicit_feedback)
+DS | Recommendation system for movies with Spark ALS | Jun 2019 | [Github repo](https://github.com/szaitseff/BigData-10.0/tree/master/lab09-09s_recommendations_movies)
+DS | Predict gender and age from web logs - 2nd place on Private leaderboard | May 2019 | [Github repo](https://github.com/szaitseff/BigData-10.0/tree/master/project1_predict_age_gender_from_web_logs)
+DS | Word2Vec for movie reviews - LSTM | Apr 2019 | [Github repo](https://github.com/szaitseff/BigData-10.0/tree/master/lab05_05s_text_mining_vacancies%2BNLP_LSTM)
+DS | Bank customers churn | Apr 2019 | [Github repo](https://github.com/szaitseff/BigData-10.0/tree/master/lab04-04s_bank_customers_churn)
 DS | Classification of Time Series with LSTM RNN | Jan 2019| [Kaggle kernel](https://www.kaggle.com/szaitseff/classification-of-time-series-with-lstm-rnn)
 DS | Online Learning of Time Series with LSTM RNN | Jan 2019| [Kaggle kernel](https://www.kaggle.com/szaitseff/online-learning-of-time-series-with-lstm-rnn?scriptVersionId=9872571)
 DS | Fast LeNet-5 CNN in Keras | Nov 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/fast-lenet5-in-keras)
@@ -228,4 +234,3 @@ DS | Under the Hood: A Dense Neural Network w/MNIST dataset - digit recognition 
 DS | Under the Hood: A Dense Neural Network w/Titanic dataset - binary classification | Aug 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/under-the-hood-a-dense-net-on-titanic-dataset)
 DS | Titanic: Quick model first, then data manipulation - binary classification | Jul 2018 | [Kaggle kernel](https://www.kaggle.com/szaitseff/titanic-quick-model-first-then-data-manipulation/versions)
 016 | [Nand2Tetris](https://www.coursera.org/learn/build-a-computer) Final Project: Assembler in Python for the Hack Computer | Mar 2018 | [Github repo](https://github.com/szaitseff/Nand2Tetris)
-
