@@ -9,7 +9,7 @@
   <a href="https://www.sololearn.com/Profile/7307490"> Sololearn </a>
 </p>
 
-Hello, I'm Sergei. I'm a Data Scientist with a broad professional background, with master degrees in Physics and Economics and a professional certificate in accountancy from ACCA. For a number of years I was developing management reporting and controlling systems in corporations (including at C-level), have experience in team leading and project management and continue professional development in Data Science and Machine Learning with ambition to build AI systems that could change the way we do business. 
+Hello, I'm Sergei. I'm a Data Scientist with a broad professional background, master degrees in Physics and Economics and a professional certificate in accountancy from ACCA. For a number of years I was developing management reporting and controlling systems in corporations (including at C-level), have experience in team leading and project management and continue professional development in Data Science and Machine Learning with ambition to build AI systems that could change the way we do business. 
 
 I've created this web page to keep a detailed log of my progress in gaining a solid knowledge in CS and DS initially guided by the [OSSU CS Curriculum](https://github.com/ossu/computer-science/blob/dev/README.md), but subsequently expanded to other extra curriculum activities. It may serve as example for other people looking for an online equvalent of a degree in CS and DS.
 
