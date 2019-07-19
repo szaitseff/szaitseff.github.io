@@ -126,12 +126,13 @@ ID# | Course | Completed | Proof
 `discrete probability`
 `and more`
 
-**Note:** I opt out from courses 012-014 on Culculus and Linear Algebra with credits from my Master degrees in Physics. And I use MIT's materials from 015 "Math for CS" for reference purposes. What I actually need is a refresher in Statistics. Therefore, I add here an excellent 'Statistical Reasoning' course by Stanford Online from the [OSSU Data Science](https://github.com/open-source-society/data-science) Curriculum.
+**Note:** I decided to opt out from courses 012-014 on Culculus and Linear Algebra with credits from my Master degree in Physics. MIT's materials from 015 "Math for CS" I use for reference purposes. I also added refresher courses in Statistics - the more Statistics, the better :). E.g. an excellent 'Statistical Reasoning' course by Stanford Online from the [OSSU Data Science](https://github.com/open-source-society/data-science) Curriculum.
 
 ID# | Course | Completed | Proof 
 :--: | :-- | :--: | :--:
 015 | [Mathematics for CS by MIT Open Courseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | For reference | [-]()
 extra | [Statistical Reasoning by Stanford on Lagunita](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about) | Jan 2019 | [Progress records](https://github.com/szaitseff/szaitseff.github.io/blob/master/assets/StatReasoning_Progress.jpg?raw=true)
+extra | [Statistics by Bioinformatics Institute on Stepik (Rus)](https://stepik.org/course/76) | Jul 2019 | [Certificate](https://stepik.org/cert/203941)
 
 <h3 align="center"> Core Systems </h3>
 
