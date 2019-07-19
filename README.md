@@ -175,7 +175,7 @@ ID# | Course | Completed | Proof
 ID# | Course | Completed | Proof 
 :--: | :-- | :--: | :--:
 020 | [Algorithms: Design and Analysis, Part I by Standord on Lagunita](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) | Dec 2018 | [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/660109b42ee0404e9df63132a96abe08/Statement.pdf)
-022 | [Algorithms: Design and Analysis, Part II by Stanford on Lagunita](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about) | - | [-]()
+022 | [Algorithms: Design and Analysis, Part II by Stanford on Lagunita](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about) | In Progress | [-]()
 
 **Note:** (4 Algorithms courses by Stanford on Coursera == 2 Algorithms courses by Stanford on Lagunita)
 
