@@ -133,6 +133,8 @@ ID# | Course | Completed | Proof
 015 | [Mathematics for CS by MIT Open Courseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | For reference | [-]()
 extra | [Statistical Reasoning by Stanford on Lagunita](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about) | Jan 2019 | [Progress records](https://github.com/szaitseff/szaitseff.github.io/blob/master/assets/StatReasoning_Progress.jpg?raw=true)
 extra | [Statistics by Bioinformatics Institute on Stepik (Rus)](https://stepik.org/course/76) | Jul 2019 | [Certificate](https://stepik.org/cert/203941)
+extra | [Statistics 2 by Bioinformatics Institute on Stepik (Rus)](https://stepik.org/course/524) | Aug 2019 | [Certificate](https://stepik.org/cert/210742)
+
 
 <h3 align="center"> Core Systems </h3>
 
@@ -201,14 +203,14 @@ ID# | Course | Completed | Proof
 
 ID# | Course | Completed | Proof 
 :--: | :-- | :--: | :--:
-024 | [Databases by Stanford on Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | In Progress | Certificate for each sub-course
+024 | [Databases by Stanford on Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | - | Certificate for each sub-course
 DB4 | > [Relational Algebra](https://lagunita.stanford.edu/courses/DB/RA/SelfPaced/info) | May 2018 | [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/eb199d6798804513aa2efc34744e043b/Statement.pdf)
 DB5 | > [SQL](https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/info) | May 2018 | [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/d62d1e87fd484bfe90ef2e5d7b61fdca/Statement.pdf)
 DB2 | > [XML Data](https://lagunita.stanford.edu/courses/DB/XML/SelfPaced/info) | Jun 2018 | [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/50de9c09333e42248fa667b69a5df31f/Statement.pdf)
 DB3 | > [JSON Data](https://lagunita.stanford.edu/courses/DB/JSON/SelfPaced/info) | Jun 2018 | [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/2d4aaa018f2940fcb43e23ee2a9dd6da/Statement.pdf)
 025 | [Machine Learning by Stanford on Coursera](https://www.coursera.org/learn/machine-learning) | Jun 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/P4DMPJE7BNDQ)
 026 | [Computer Graphics by UCSD on edX](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | - | [-]()
-027 | [Cryptography I by Stanford on Coursera](https://www.coursera.org/course/crypto) | - | [-]()
+027 | [Cryptography I by Stanford on Coursera](https://www.coursera.org/course/crypto) | In Progress | [-]()
 028 | [Software Engineering: Introduction by UBC on edX](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | - | [-]()
 029 | [Software Development Capstone Project by UBC on edX](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | - | [-]()
 
