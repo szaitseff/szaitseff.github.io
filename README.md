@@ -208,6 +208,7 @@ DB4 | > [Relational Algebra](https://lagunita.stanford.edu/courses/DB/RA/SelfPac
 DB5 | > [SQL](https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/info) | May 2018 | [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/d62d1e87fd484bfe90ef2e5d7b61fdca/Statement.pdf)
 DB2 | > [XML Data](https://lagunita.stanford.edu/courses/DB/XML/SelfPaced/info) | Jun 2018 | [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/50de9c09333e42248fa667b69a5df31f/Statement.pdf)
 DB3 | > [JSON Data](https://lagunita.stanford.edu/courses/DB/JSON/SelfPaced/info) | Jun 2018 | [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/2d4aaa018f2940fcb43e23ee2a9dd6da/Statement.pdf)
+DB10 | > [Indexes and Transactions](https://lagunita.stanford.edu/courses/DB/Indexes/SelfPaced/info) | Feb 2020 | [Certificate](https://prod-cert-bucket.s3.amazonaws.com/downloads/f76d16f8cafb49db87515c3903bd8eb9/Statement.pdf)
 025 | [Machine Learning by Stanford on Coursera](https://www.coursera.org/learn/machine-learning) | Jun 2018 | [Certificate](https://www.coursera.org/account/accomplishments/certificate/P4DMPJE7BNDQ)
 026 | [Computer Graphics by UCSD on edX](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | - | [-]()
 027 | [Cryptography I by Stanford on Coursera](https://www.coursera.org/course/crypto) | In Progress | [-]()
